@@ -1,4 +1,7 @@
-### Hi there 👋, I'm Erlangga Pratama 
+# Hi there 👋, I'm Erlangga Pratama 
+## Web Developer & soon to be Software Engineer 
+
+___
 
 Link with my social media 
 - Instagram : pratamaerlngga
