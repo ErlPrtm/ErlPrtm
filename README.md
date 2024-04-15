@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Erlangga Pratama 
+<# align="center"> Hi there 👋, I'm Erlangga Pratama </#>
 ## Web Developer & soon to be Software Engineer 
 
 ___
