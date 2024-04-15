@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Erlangga Pratama 
+
+Link with my social media 
+- Instagram : pratamaerlngga
+- Linkedin : https://www.linkedin.com/in/teuku-muhammad-erlangga-pratama-698a5324b/
+
+Language and Tools :
+- Java
+- HTML5
+- CSS
+- Javascript
+- MySQL
+- Java for Android
 
 <!--
 **ErlPrtm/ErlPrtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
