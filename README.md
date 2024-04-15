@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone👋, I'm Erlangga Pratama</h1>
-<h3 align="center">Frontend Developer & soon-to-be Software Engineer from Indonesia</h3>
+<h3>Frontend Developer & soon-to-be Software Engineer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
