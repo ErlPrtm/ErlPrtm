@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, I'm Erlangga Pratama </h1>
-## Web Developer & soon-to-be Software Engineer 
+<h2> Web Developer & soon-to-be Software Engineer </h2>
 
 ___
 
